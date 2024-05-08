@@ -1,0 +1,27 @@
+.all-service-container {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	gap: 20px;
+	padding-top: 30px;
+}
+
+@media (max-width: 768px) {
+
+	.all-service-container {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+}
+
+@media (max-width: 600px) {
+
+	.all-service-container {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.all-service {
+		padding: 10px;
+	}
+}
+
+
