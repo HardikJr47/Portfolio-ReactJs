@@ -35,13 +35,13 @@ const INFO = {
 		},
 
 		{
-			image: "./Netflix-Clone.png",
-			title: "Netflix-Clone",
+			image: "./StreamIt.png",
+			title: "StreamIt",
 			description:
 				"Discover your next favorite movie or TV show with our immersive entertainment app! Whether you're in the mood for a thrilling action flick, a heartwarming romance, a gripping drama, or an exciting TV series binge, we've got you covered.",
 			logo: ["./react.svg", "./vite.svg", "./react-router.svg"],
 			linkText: "View Project",
-			link: "https://github.com/HardikJr47/Netflix-Clone",
+			link: "https://github.com/HardikJr47/StreamIt",
 		},
 
 		{
@@ -198,13 +198,13 @@ const INFO = {
 		},
 
 		{
-			image: "./Netflix-Clone.png",
-			title: "Netflix-Clone",
+			image: "./StreamIt.png",
+			title: "StreamIt",
 			description:
 				"Discover your next favorite movie or TV show with our immersive entertainment app! Whether you're in the mood for a thrilling action flick, a heartwarming romance, a gripping drama, or an exciting TV series binge, we've got you covered.",
 			logo: ["./react.svg", "./vite.svg", "./react-router.svg"],
 			linkText: "View Project",
-			link: "https://github.com/HardikJr47/Netflix-Clone",
+			link: "https://github.com/HardikJr47/StreamIt",
 		},
 
 		{
